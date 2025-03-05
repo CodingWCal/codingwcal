@@ -8,8 +8,6 @@
   
 - 🌱 I’m currently learning HTML, CSS, Javascript while expanding my tech stack to be full stack, with a certificate in Responsive Web Design
 ---
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm)](https://skills.thijs.gg)
-
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=codingwcal&count_private=true&theme=tokyonight&showicons=true)]()
 
