@@ -11,8 +11,6 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwcal&langs_count=5&theme=tokyonight)]()
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=codingwcal&count_private=true&theme=tokyonight&showicons=true)]()
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=codingwcal)](https://github.com/codingwcal/github-readme-stats)
-
 
 ---
 
