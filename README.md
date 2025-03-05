@@ -1,4 +1,4 @@
-## ![](https://github.com/CodingWCal/codingwcal/blob/main/text.gif) 
+## ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(1).gif) 
 
 👋 I'm a software engineer and front-end developer in Resilient Coders and 100Devs. 
 
