@@ -4,7 +4,7 @@ My name is Calvin and I'm a software engineer and front-end developer in Resilie
 
 - 💬 I'm navigating a career pivot from my background in Enterprise/Software Sales and loving this journey breaking into tech
   
-- 🔭 I’m currently working on [codewars practices](https://github.com/CodingWCal/codewars-practices) and creating full stack web apps
+- 🔭 I’m currently working on [codewars practices](https://github.com/CodingWCal/codewars-practices), freelance web design and building full stack web apps
   
 - 🌱 I’m currently learning HTML, CSS, Javascript while expanding my tech stack to be full stack, with a certificate in Responsive Web Design
 
