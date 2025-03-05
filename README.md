@@ -1,6 +1,6 @@
-## Hey Everyone! 👋
+## ![](https://github.com/CodingWCal/codingwcal/blob/main/text.gif) 👋
 
-My name is Calvin and I'm a software engineer and front-end developer in Resilient Coders and 100Devs. 
+I'm a software engineer and front-end developer in Resilient Coders and 100Devs. 
 
 - 💬 I'm navigating a career pivot from my background in Enterprise/Software Sales and loving this journey breaking into tech
   
