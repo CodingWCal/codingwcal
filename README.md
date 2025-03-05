@@ -1,4 +1,5 @@
 ## ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(2).gif) 
+![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
 👋 I'm a software engineer and front-end developer in Resilient Coders and 100Devs. 
 
@@ -12,7 +13,7 @@
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=codingwcal&count_private=true&theme=tokyonight&showicons=true)]()
 
----
+![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/coding-gif-github.gif)
 
