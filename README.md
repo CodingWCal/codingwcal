@@ -11,6 +11,7 @@
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=codingwcal&count_private=true&theme=tokyonight&showicons=true)]()
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
