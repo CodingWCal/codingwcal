@@ -14,9 +14,9 @@
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
-![](https://github.com/CodingWCal/codingwcal/blob/main/pong%20gif.gif)
-
-![](https://github.com/CodingWCal/codingwcal/blob/main/coding-gif-github.gif)
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![]([https://...Dark.png](https://github.com/CodingWCal/codingwcal/blob/main/pong%20gif.gif))  |  ![]([https://...Ocean.png](https://github.com/CodingWCal/codingwcal/blob/main/coding-gif-github.gif))
 
 <!--
 **CodingWCal/codingwcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
