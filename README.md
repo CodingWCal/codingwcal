@@ -14,6 +14,8 @@
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
+![](https://github.com/CodingWCal/codingwcal/blob/main/pong%20gif.gif)
+
 ![](https://github.com/CodingWCal/codingwcal/blob/main/coding-gif-github.gif)
 
 <!--
