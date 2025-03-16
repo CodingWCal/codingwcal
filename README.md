@@ -12,6 +12,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=CodingWCal&count_private=true&theme=tokyonight&showicons=true"/>
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=CodingWCal&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWCal&langs_count=5&theme=tokyonight)]()
+
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
 Gaming Mode            |  Grind Mode
