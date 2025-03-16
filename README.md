@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 <div class='container'; style="display: flex; flex-direction: row;">
 <img style="height: 200px; width: 48%;" class="img" src="https://github-readme-stats.vercel.app/api?username=CodingWCal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-<img style="height: 199px; width: 48%;" class="img" src="https://nirzak-streak-stats.vercel.app/?user=codingwcal&theme=tokyonight&hide_border=false" />
+<img style="height: 200px; width: 48%;" class="img" src="https://nirzak-streak-stats.vercel.app/?user=codingwcal&theme=tokyonight&hide_border=false" />
 </div>
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
