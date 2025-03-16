@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript and soon to be full stack, with a certificate in [Responsive Web Design](https://www.linkedin.com/in/calvin-van-001/overlay/1737645262773/single-media-viewer/?profileId=ACoAABAtN4gBzdUkaaAEr7B9-c5zPwP7-zOpCFw)
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=CodingWCal&count_private=true&theme=tokyonight&showicons=true"/>
+  <img src=""/>
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
