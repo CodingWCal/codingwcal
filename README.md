@@ -14,8 +14,8 @@
 
 # 📊 GitHub Stats:
 <div class='container'; style="display: flex; flex-direction: row;">
-<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api?username=CodingWCal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-<img style="height: 250px; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=tokyonight&langs_count=8&layout=compact" />
+<img style="height: 200px; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api?username=CodingWCal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+<img style="height: 200px; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=tokyonight&langs_count=8&layout=compact" />
 </div>
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
