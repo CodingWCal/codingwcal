@@ -24,7 +24,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=CodingWCal&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo & Languages Used
-![](https://github-contributor-stats.vercel.app/api?username=CodingWCal&limit=5&theme=dark&combine_all_yearly_contributions=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWCal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div class='container'; style="display: flex; flex-direction: row;">
+<img style="height: 200px; width: 49.5%;" class="img" src="https://github-contributor-stats.vercel.app/api?username=CodingWCal&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+<img style="height: 199px; width: 49.5%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWCal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div>
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
