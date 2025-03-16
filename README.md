@@ -25,7 +25,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=CodingWCal&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
 Gaming Mode            |  Grind Mode
 :-------------------------:|:-------------------------:
