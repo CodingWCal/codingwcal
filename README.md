@@ -35,13 +35,13 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=CodingWCal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/codingwcal.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/calvin-van-001/) 
-
 Gaming Mode            |  Grind Mode
 :-------------------------:|:-------------------------:
 ![](https://github.com/CodingWCal/codingwcal/blob/main/pong%20gif.gif)  |  ![](https://github.com/CodingWCal/codingwcal/blob/main/coding-gif-github.gif)
+
+
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://bsky.app/profile/codingwcal.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/calvin-van-001/) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
