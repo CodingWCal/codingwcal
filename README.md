@@ -14,10 +14,10 @@
 
 # 📊 GitHub Stats:
 <div class='container'>
-<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=CodingWCal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api?username=CodingWCal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 50%;" class="img" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact](https://nirzak-streak-stats.vercel.app/?user=CodingWCal&theme=tokyonight&hide_border=false)" />
+<img style="height: auto; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact" />
 </div>
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
