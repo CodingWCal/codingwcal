@@ -1,7 +1,7 @@
 ## ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(2).gif) 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
-👋 I'm a software engineer and front-end developer in Resilient Coders & 100Devs
+👋 I'm a full stack software engineer with a love for front-end development in Resilient Coders & 100Devs
 
 - 💬 I'm navigating a career pivot from my background in Enterprise/Software Sales and loving this journey breaking into tech
   
