@@ -5,7 +5,7 @@
 
 - 💬 I'm navigating a career pivot from my background in Enterprise/Software Sales and loving this journey breaking into tech
   
-- 🔭 I’m currently working on [codewars practices](https://github.com/CodingWCal/codewars-practices), [freelance web design](https://calvin-van-creations.netlify.app/) and building full stack web apps
+- 🔭 I’m currently working on [codewars practices](https://github.com/CodingWCal/codewars-practices), [freelance web design](https://calvin-van-creations.netlify.app/) and building [full stack web apps](https://github.com/CodingWCal/Fullstack-Authenticator-Personal-Notepad-App)
   
 - 🌱 I’m currently honing my skills in HTML, CSS, Javascript, Node.js, React and MongoDB with a certificate in [Responsive Web Design](https://www.linkedin.com/in/calvin-van-001/overlay/1737645262773/single-media-viewer/?profileId=ACoAABAtN4gBzdUkaaAEr7B9-c5zPwP7-zOpCFw)
 
