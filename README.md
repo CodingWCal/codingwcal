@@ -1,4 +1,4 @@
-## ![Hey Im Cal](https://github.com/CodingWCal/codingwcal/blob/main/text%20(2).gif) 
+# ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(2).gif) 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
 👋 I'm a full stack software engineer with a love for front-end development in Resilient Coders & 100Devs
