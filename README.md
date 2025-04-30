@@ -1,15 +1,38 @@
 # ![Alt text](https://raw.githubusercontent.com/CodingWCal/codingwcal/main/text%20(2).gif)
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
+# 👋🏽 Hey, I’m Calvin Van — a developer, storyteller, and lifelong builder.
 
-👋 I'm a full stack software engineer with a love for front-end development in Resilient Coders & 100Devs
+Once a top-performing enterprise sales rep, now a full-stack software engineer channeling that same hustle into designing accessible, creative, and impactful web experiences. I bring an eye for **front-end detail**, a passion for **user-focused design**, and a deep respect for **community-driven tech**.
 
-- 💬 I'm navigating a career pivot from my background in Enterprise/Software Sales and loving this journey breaking into tech
-  
-- 🔭 I’m currently working on [codewars practices](https://github.com/CodingWCal/codewars-practices), [freelance web design](https://calvin-van-creations.netlify.app/) and building [full stack web apps](https://github.com/CodingWCal/Fullstack-Authenticator-Personal-Notepad-App)
-  
-- 🌱 I’m currently honing my skills in HTML, CSS, Javascript, Node.js, React and MongoDB with a certificate in [Responsive Web Design](https://www.linkedin.com/in/calvin-van-001/overlay/1737645262773/single-media-viewer/?profileId=ACoAABAtN4gBzdUkaaAEr7B9-c5zPwP7-zOpCFw)
+---
 
-- 💡 Favorite Quote: “You do not rise to the level of your goals. You fall to the level of your systems.” - James Clear 
+## 🚀 What I’m Building
+- ✍🏽 [**InkSpiration**](https://github.com/CodingWCal/Inkspiration-fullstack-project) — A full-stack productivity platform for artists and writers to track creative projects and share ideas  
+- 💻 [**Freelance Web Design Projects**](https://calvinvancreations.com/) — Websites tailored for small businesses, artists, and community orgs  
+- 🧠 [**Codewars Practice**](https://github.com/CodingWCal/codewars-practices) — Strengthening algorithm fluency, one kata at a time  
+
+---
+
+## 🧩 What I’m Learning
+- Leveling up in **JavaScript**, **Node.js**, **React**, and **MongoDB**
+- Practicing test-driven development, authentication flows, and RESTful APIs
+- Building clean UI with **HTML/CSS**, accessibility, and responsive design
+- Earned a [Responsive Web Design certificate](https://www.linkedin.com/in/calvin-van-001/overlay/1737645262773/single-media-viewer/?profileId=ACoAABAtN4gBzdUkaaAEr7B9-c5zPwP7-zOpCFw)
+
+---
+
+## 🔁 From Sales to Software
+My past life? Pitching talent and fin-tech solutions and managing complex sales cycles across teams. Now, I bring that same energy to debugging full-stack apps and mentoring peers in bootcamps like **Resilient Coders** and **100Devs**.  
+
+Tech is my chosen path for building systems of equity, creativity, and self-expression.
+
+> _“You do not rise to the level of your goals. You fall to the level of your systems.” – James Clear_
+
+---
+
+Let’s connect or collaborate! Always down to talk tech, creativity, retro video gaming, or how we build better tools—for people and for purpose.
+
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
