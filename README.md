@@ -1,35 +1,40 @@
 # ![Alt text](https://raw.githubusercontent.com/CodingWCal/codingwcal/main/text%20(2).gif)
 # 👋🏽 Creativity + Community = Cal
 
-Once a top-performing enterprise sales rep, now a full-stack software engineer channeling that same hustle into designing accessible, creative, and impactful web experiences. I bring an eye for **front-end detail**, a passion for **user-focused design**, and a deep respect for **community-driven tech**.
+I'm a full-stack software engineer currently learning and building through **Resilient Coders** and **100Devs** — with a deep love for front-end development, design, and creative problem-solving.
+
+I’m passionate about building tech that’s thoughtful, expressive, and community-focused. Whether it's coding a clean UI, debugging an API call, or helping other engineers, I bring curiosity, hustle, and heart to the table.
+
+I also grew up on retro video games and pixel art, in fact I actually used to own a retro-gaming shop online — so you'll often find little throwbacks and playful energy in all the projects I build.
 
 ---
 
-## 🚀 What I’m Building
-- ✍🏽 [**InkSpiration**](https://github.com/CodingWCal/Inkspiration-fullstack-project) — A full-stack productivity platform for artists and writers to track creative projects and share ideas  
-- 💻 [**Freelance Web Design Projects**](https://calvinvancreations.com/) — Websites tailored for small businesses, artists, and community orgs  
-- 🧠 [**Codewars Practice**](https://github.com/CodingWCal/codewars-practices) — Strengthening algorithm fluency, one kata at a time  
+## 🔭 What I'm Currently Working On:
+
+- 🧠 Practicing algorithms at [Codewars](https://github.com/CodingWCal/codewars-practices)
+- 🎨 Designing sites for clients at [calvin-van-creations.netlify.app](https://calvin-van-creations.netlify.app/)
+- 📚 Building full-stack apps like [my personal notepad with auth](https://github.com/CodingWCal/Fullstack-Authenticator-Personal-Notepad-App)
 
 ---
 
-## 🧩 What I’m Learning
-- Leveling up in **JavaScript**, **Node.js**, **React**, and **MongoDB**
-- Practicing test-driven development, authentication flows, and RESTful APIs
-- Building clean UI with **HTML/CSS**, accessibility, and responsive design
-- Earned a [Responsive Web Design certificate](https://www.linkedin.com/in/calvin-van-001/overlay/1737645262773/single-media-viewer/?profileId=ACoAABAtN4gBzdUkaaAEr7B9-c5zPwP7-zOpCFw)
+## 🌱 What I'm Learning:
+
+Currently deepening my skills in:
+- HTML, CSS, JavaScript
+- Node.js, React, MongoDB
+- CRUD, authentication, and responsive UI/UX
+
+I also earned a [Responsive Web Design certificate](https://www.linkedin.com/in/calvin-van-001/overlay/1737645262773/single-media-viewer/?profileId=ACoAABAtN4gBzdUkaaAEr7B9-c5zPwP7-zOpCFw) and continue to sharpen my eye for layout, flow, and accessibility.
 
 ---
 
-## 🔁 From Sales to Software
-My past life? Pitching talent and fin-tech solutions and managing complex sales cycles across teams. Now, I bring that same energy to debugging full-stack apps and collaborating with peers in **Resilient Coders** and **100Devs**.  
-
-Tech is my chosen path for building systems of equity, creativity, and self-expression.
-
-> _“You do not rise to the level of your goals. You fall to the level of your systems.” – James Clear_
+> 💡 Favorite Quote:  
+> *“You do not rise to the level of your goals. You fall to the level of your systems.”* — James Clear
 
 ---
 
-Let’s connect or collaborate! Always down to talk tech, creativity, retro video gaming, or how we build better tools—for people and for purpose.
+Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, anime, or games. Let's connect!
+
 
 
 
