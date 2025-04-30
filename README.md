@@ -22,7 +22,7 @@ Once a top-performing enterprise sales rep, now a full-stack software engineer c
 ---
 
 ## 🔁 From Sales to Software
-My past life? Pitching talent and fin-tech solutions and managing complex sales cycles across teams. Now, I bring that same energy to debugging full-stack apps and mentoring peers in bootcamps like **Resilient Coders** and **100Devs**.  
+My past life? Pitching talent and fin-tech solutions and managing complex sales cycles across teams. Now, I bring that same energy to debugging full-stack apps and collaborating with peers in **Resilient Coders** and **100Devs**.  
 
 Tech is my chosen path for building systems of equity, creativity, and self-expression.
 
