@@ -1,5 +1,4 @@
 # ![Alt text](https://raw.githubusercontent.com/CodingWCal/codingwcal/main/text%20(2).gif)
-![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 # 👋🏽 Creativity + Community = Cal
 
 Once a top-performing enterprise sales rep, now a full-stack software engineer channeling that same hustle into designing accessible, creative, and impactful web experiences. I bring an eye for **front-end detail**, a passion for **user-focused design**, and a deep respect for **community-driven tech**.
