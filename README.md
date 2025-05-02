@@ -12,7 +12,7 @@ I also grew up on retro video games and pixel art, in fact I actually used to ow
 ## 🔭 What I'm Currently Working On:
 
 - 🧠 Practicing algorithms at [Codewars](https://github.com/CodingWCal/codewars-practices)
-- 🎨 Designing sites for clients at [calvin-van-creations.netlify.app](https://calvin-van-creations.netlify.app/)
+- 🎨 Designing sites for clients at [](https://calvinvancreations.com/)
 - 📚 Building full-stack apps like [my personal notepad with auth](https://github.com/CodingWCal/Fullstack-Authenticator-Personal-Notepad-App)
 
 ---
