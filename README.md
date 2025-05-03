@@ -17,12 +17,7 @@ I also grew up on retro video games and pixel art, in fact I actually used to ow
 
 ---
 
-## 🌱 What I'm Learning:
-
-Currently deepening my skills in:
-- HTML, CSS, JavaScript
-- Node.js, React, MongoDB
-- CRUD, authentication, and responsive UI/UX
+## 🌱 Recent Certificates
 
 I also earned a [Responsive Web Design certificate](https://www.linkedin.com/in/calvin-van-001/overlay/1737645262773/single-media-viewer/?profileId=ACoAABAtN4gBzdUkaaAEr7B9-c5zPwP7-zOpCFw) and continue to sharpen my eye for layout, flow, and accessibility.
 
