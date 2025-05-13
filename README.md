@@ -13,7 +13,9 @@ I also grew up on retro video games and pixel art, in fact I actually used to ow
 
 - 🧠 Practicing algorithms at [Codewars](https://github.com/CodingWCal/codewars-practices)
 - 🎨 Designing sites for clients at [https://calvinvancreations.com/](https://calvinvancreations.com/)
-- 📚 Building full-stack apps like [my personal notepad with auth](https://github.com/CodingWCal/Fullstack-Authenticator-Personal-Notepad-App)
+- 📚 Building full-stack apps like [Inkspiration Creative Platform](https://github.com/CodingWCal/Inkspiration-2.0)
+
+Feel free to also check out Inkspiration on this [Hosted Link](https://inkspiration-2-0.onrender.com/)
 
 ---
 
