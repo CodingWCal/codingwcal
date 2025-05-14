@@ -15,7 +15,7 @@ I also grew up on retro video games and pixel art, in fact I actually used to ow
 - 🎨 Designing sites for clients at [https://calvinvancreations.com/](https://calvinvancreations.com/)
 - 📚 Building full-stack apps like [Inkspiration Creative Platform](https://github.com/CodingWCal/Inkspiration-2.1)
 
-Feel free to start creating art projects and check out [Inkspiration here!](https://inkspiration-2-0.onrender.com/)
+Feel free to start creating art projects and check out [Inkspiration here!](https://inkspiration-app.onrender.com/)
 
 ---
 
