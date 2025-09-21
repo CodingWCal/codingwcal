@@ -11,7 +11,7 @@ I also grew up on retro video games and pixel art, in fact I actually used to ow
 
 ## 🔭 What I'm Currently Working On:
 
-- 🧠 Practicing algorithms at [Codewars](https://github.com/CodingWCal/codewars-practices)
+- 🧠 Practicing algorithms at [Neetcode](https://github.com/CodingWCal/NeetCode-Solutions) & [Codewars](https://github.com/CodingWCal/codewars-practices)
 - 🎨 Designing sites for clients at [https://calvinvancreations.com/](https://calvinvancreations.com/)
 - 📚 Building full-stack apps like [Inkspiration](https://github.com/CodingWCal/Inkspiration-2.1), [SafeRoute](https://safe-route-6iqv.onrender.com/) & [JS Sensei](https://js-sensei.vercel.app/)
 
