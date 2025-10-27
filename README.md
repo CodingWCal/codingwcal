@@ -1,7 +1,7 @@
 # ![Alt text](https://raw.githubusercontent.com/CodingWCal/codingwcal/main/text%20(2).gif)
 # 👋🏽 Creativity + Community = Cal
 
-I'm a Developer Advocate and full-stack software engineer with an applied AI focus, currently building at **Resilient Coders** and **100Devs** — with a deep love for front-end development, design, and creative problem-solving.
+I'm a Developer Advocate and Full-Stack Software Engineer with an applied AI focus, currently building at **Resilient Coders** and **100Devs** — with a deep love for front-end development, design, and creative problem-solving.
 
 I’m passionate about building tech that’s thoughtful, expressive, and community-focused. Whether it's coding a clean UI, debugging an API call, or helping other engineers, I bring curiosity, hustle, and heart to the table.
 
