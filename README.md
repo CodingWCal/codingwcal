@@ -14,6 +14,7 @@ I also grew up on retro video games and pixel art, in fact I actually used to ow
 - 🧠 Practicing algorithms at [Neetcode](https://github.com/CodingWCal/NeetCode-Solutions) & [Codewars](https://github.com/CodingWCal/codewars-practices)
 - 🎨 Designing sites for clients at [https://calvinvancreations.com/](https://calvinvancreations.com/)
 - 📚 Building full-stack apps like [Inkspiration](https://github.com/CodingWCal/Inkspiration-2.1), [SafeRoute](https://safe-route-6iqv.onrender.com/) & [JS Sensei](https://js-sensei.vercel.app/)
+- 🤖 Creating creative apps using agentic workflows like [Club Goose](https://club-goose.vercel.app/), a handsfree music creating experience that is controlled fully by voice commands!
 
 Feel free to start creating art projects and check out [Inkspiration here!](https://inkspiration-app.onrender.com/)
 
