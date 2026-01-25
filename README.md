@@ -51,7 +51,7 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=codingwcal&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://raw.githubusercontent.com/codingwcal/codingwcal/output/github-contribution-grid-snake.svg"
     width="420"
   />
   <img
@@ -60,12 +60,6 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://metrics.lecoq.io/codingwcal?template=classic&languages=1&achievements=1&notable=1"
-    width="880"
-  />
-</p>
 
 
 <!-- <p align="center">
