@@ -49,7 +49,7 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
 
 ### 🔝 Top Languages Used
 <div class='container'; style="display: flex; flex-direction: row;">
-<img style="height: 195px; width: 120%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwcal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img style="height: 195px; width: 250%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwcal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
