@@ -54,7 +54,7 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
     width="400"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwcal&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwcal&theme=tokyonight&hide_border=true&layout=donut&langs_count=6"
     width="400"
   />
 </p>
