@@ -47,10 +47,26 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
-### 🔝 Top Languages Used
-<div class='container'; style="display: flex; flex-direction: row;">
-<img style="height: 195px; width: 250%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwcal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+### 🔝 Most Used Languages
+<div align="center" style="margin-top: 10px; margin-bottom: 6px;">
+  <div
+    style="
+      max-width: 560px;
+      width: 100%;
+      padding: 14px;
+      border-radius: 16px;
+    "
+  >
+    <img
+      alt="Most used languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwcal&theme=tokyonight&hide_border=true&layout=compact&langs_count=10&hide_title=true"
+      style="width: 100%; height: auto; border-radius: 14px;"
+    />
+  </div>
 </div>
+<!-- <div class='container'; style="display: flex; flex-direction: row;">
+<img style="height: 195px; width: 250%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwcal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</div> -->
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
