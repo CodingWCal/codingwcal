@@ -51,7 +51,7 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=codingwcal&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingwcal&theme=tokyonight"
     width="420"
   />
   <img
@@ -59,6 +59,7 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
     width="420"
   />
 </p>
+
 
 
 <!-- <p align="center">
