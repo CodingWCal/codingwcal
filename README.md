@@ -60,6 +60,14 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://metrics.lecoq.io/codingwcal?template=classic&languages=1&achievements=1&notable=1"
+    width="880"
+  />
+</p>
+
+
 <!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwcal&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
