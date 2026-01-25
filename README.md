@@ -47,9 +47,6 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodingWCal&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo & Languages Used
 <div class='container'; style="display: flex; flex-direction: row;">
 <img style="height: 195px; width: 49%;" class="img" src="https://github-contributor-stats.vercel.app/api?username=CodingWCal&limit=5&theme=dark&combine_all_yearly_contributions=true" />
