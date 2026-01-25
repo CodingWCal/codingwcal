@@ -50,7 +50,7 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
 ### 🔝 Most Used Languages
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codingwcal&theme=tokyonight&utcOffset=5"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-day?username=codingwcal&theme=tokyonight"
     width="400"
   />
   <img
@@ -58,6 +58,7 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
     width="400"
   />
 </p>
+
 
 
 <!-- <p align="center">
