@@ -51,10 +51,21 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
 
 <p align="center">
   <img
+    src="https://github-readme-stats.vercel.app/api?username=codingwcal&show_icons=true&theme=tokyonight&hide_border=true"
+    width="420"
+  />
+  <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwcal&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
     width="420"
   />
 </p>
+
+<!-- <p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwcal&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
+    width="420"
+  />
+</p> -->
 
 
 <!-- <div align="center" style="margin-top: 10px; margin-bottom: 6px;">
