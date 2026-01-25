@@ -47,9 +47,8 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
-### 🔝 Top Contributed Repo & Languages Used
+### 🔝 Top Languages Used
 <div class='container'; style="display: flex; flex-direction: row;">
-<img style="height: 195px; width: 49%;" class="img" src="https://github-contributor-stats.vercel.app/api?username=CodingWCal&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 <img style="height: 195px; width: 49%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwcal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
