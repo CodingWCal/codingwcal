@@ -51,14 +51,13 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
 <p align="center">
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codingwcal&theme=tokyonight&utcOffset=5"
-    width="420"
+    width="400"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwcal&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
-    width="420"
+    width="400"
   />
 </p>
-
 
 
 <!-- <p align="center">
