@@ -48,10 +48,9 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
 
 ### 🔝 Most Used Languages
-
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingwcal&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codingwcal&theme=tokyonight&utcOffset=5"
     width="420"
   />
   <img
