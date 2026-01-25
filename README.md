@@ -59,12 +59,29 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
     </td>
     <td align="center" width="50%">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingwcal&theme=tokyonight"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingwcal&theme=tokyonight"
         width="420"
       />
     </td>
   </tr>
 </table>
+
+<!-- <table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingwcal&theme=tokyonight"
+        width="420"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codingwcal&theme=tokyonight"
+        width="420"
+      />
+    </td>
+  </tr>
+</table> -->
 
 
 ![](https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif) 
