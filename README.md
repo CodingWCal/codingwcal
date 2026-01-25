@@ -51,7 +51,7 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/codingwcal/codingwcal/output/github-contribution-grid-snake.svg"
+    src="https://streak-stats.demolab.com?user=codingwcal&theme=tokyonight&hide_border=true"
     width="420"
   />
   <img
@@ -59,8 +59,6 @@ Thanks for stopping by! Always happy to collab, share ideas, or talk code, art, 
     width="420"
   />
 </p>
-
-
 
 <!-- <p align="center">
   <img
