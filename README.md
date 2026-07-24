@@ -206,13 +206,9 @@ GitHub snapshot
   <img src="https://github.com/CodingWCal/codingwcal/blob/main/text%20(3).gif?raw=true" width="100%" alt="Retro animated divider" />
 </p>
 
-Gaming Mode
-
-Grind Mode
-
-
-
-
+Gaming Mode | Grind Mode
+:---:|:---:
+<img src="./pong%20gif.gif" width="100%" alt="Gaming Mode" /> | <img src="./coding-gif-github.gif" width="100%" alt="Grind Mode" />
 
 Say hello
 
