@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/CodingWCal/codingwcal/main/text%20(2).gif" width="100%" alt="Coding with Cal animated banner" />
 </p>
 
-<h1 align="center">Calvin Van</h1>
+<h1 align="center">Calvin V.</h1>
 
 <p align="center">
   <strong>Developer Advocate · Applied AI Engineer · Full-Stack Builder</strong>
