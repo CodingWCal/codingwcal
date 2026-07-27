@@ -2,6 +2,14 @@
   <img src="https://raw.githubusercontent.com/CodingWCal/codingwcal/main/text%20(2).gif" width="100%" alt="Coding with Cal animated banner" />
 </p>
 
+<p align="center">
+  <img
+    src="./assets/hey-im-cal-matrix.gif"
+    alt="Animated Matrix-style banner reading Hey, I'm Cal!"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Calvin V.</h1>
 
 <p align="center">
