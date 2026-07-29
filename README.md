@@ -36,7 +36,7 @@
 
 ## About me
 
-Hey, I'm Calvin. I’m a Developer Advocate and applied AI/full-stack builder working with **Resilient Coders**.
+Hey, I'm Calvin. I’m a Developer Advocate and applied AI/full-stack software engineer with **Resilient Coders** and **100Devs**.
 
 Before engineering, I worked in enterprise software sales and business development. Sales taught me to listen first, skip the jargon, and connect technical work to real human needs.
 
