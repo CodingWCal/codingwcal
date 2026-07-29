@@ -129,6 +129,10 @@ I also grew up on retro video games and pixel art. In fact, I actually used to o
 - **[Club Goose](https://github.com/CodingWCal/club-goose)** combines voice control, browser audio synthesis, reactive visuals, and hands-free interaction.
 - **[Frutiger Flocus](https://github.com/CodingWCal/frutiger-flocus)** shows polished UI, motion, TypeScript, testing, and plenty of personality.
 
+### Tech for good
+
+**[SafeRoute](https://safe-route-6iqv.onrender.com/)** is a community safety and accessibility app built collaboratively with other engineers. I served as Front-End Product Manager, leading the front-end team, shaping the user experience, and coordinating delivery around a shared civic-tech mission.
+
 ---
 
 ## Creative arcade
