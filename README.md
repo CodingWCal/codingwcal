@@ -7,6 +7,7 @@
     src="./assets/hey-im-cal-matrix.gif"
     alt="Animated Matrix-style banner reading Hey, I'm Cal!"
     width="100%"
+    height="80%"
   />
 </p>
 
