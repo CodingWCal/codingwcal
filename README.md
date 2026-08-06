@@ -14,7 +14,7 @@
 <h1 align="center">Calvin V.</h1>
 
 <p align="center">
-  <strong>Developer Advocate · Applied AI Engineer · Full-Stack Builder</strong>
+  <strong>Developer Advocate · Applied AI Engineer · GTM Engineer . Full-Stack Builder</strong>
 </p>
 
 <p align="center">
